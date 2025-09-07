@@ -25,7 +25,7 @@ A collection of hands-on machine learning projects using **Random Forest** algor
 
 ### 2. Random Forest Classification
 - **Notebook:** `random_forest_classification.ipynb`  
-- **Dataset(s):** Could be `Travel.csv` or others  
+- **Dataset(s):** `Travel.csv`
 - **Description:**  
   Implements Random Forest Classification to predict categorical outcomes (e.g., travel preferences, churn) based on available features.
 
