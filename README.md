@@ -39,7 +39,7 @@ A collection of hands-on machine learning projects using **Random Forest** algor
 
 ##  Additional Files
 
-- **`auc.png`**: Visualization of the model’s ROC-AUC curve (likely from classification model)  
+- **`auc.png`**: Visualization of the model’s ROC-AUC curve (from classification model)  
 - **`Travel.csv`**: Probably the source dataset for the classification notebook
 
 ---
