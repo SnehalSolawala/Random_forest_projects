@@ -52,12 +52,12 @@ A collection of hands-on machine learning projects using **Random Forest** algor
    cd Random_forest_projects
 
 
-2. **Set Up Your Environment
+2. **Set Up Your Environment**
     python3 -m venv env
     source env/bin/activate  # or `env\Scripts\activate` on Windows
     pip install -r requirements.txt
 
-3. **Run the Notebooks
+3. **Run the Notebooks**
       jupyter notebook
 
     Open and run:
